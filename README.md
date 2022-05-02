@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Decisions made
+
+Tried to make downdown component as reusable as possible in the given time
+
+Haven't used any state management plugins like redux, as the application was too small
+
+I have used custom debounce logic to avoid API calls for each keystroke
+
 ## Available Scripts
 
 In the project directory, you can run:
