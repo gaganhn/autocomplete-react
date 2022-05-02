@@ -11,6 +11,8 @@ Haven't used any state management plugins like redux, as the application was too
 
 I have used custom debounce logic to avoid API calls for each keystroke
 
+Deployed this application in [https://autocomplete-react-gagan.herokuapp.com/](https://autocomplete-react-gagan.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
